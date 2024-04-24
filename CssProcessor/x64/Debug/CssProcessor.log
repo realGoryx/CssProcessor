@@ -1,0 +1,131 @@
+﻿  CssProcessor.cpp
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(495,26): warning C4477: „sscanf_s”: ciąg formatu „%[^{]” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „char *”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(495,26):
+  ten argument jest używany jako rozmiar bufora
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(495,26): warning C4473: „sscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(495,26):
+  symbole zastępcze i ich parametry oczekują 4 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(495,26):
+  brakujący argument 3 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%[^}]”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(495,26):
+  ten argument jest używany na potrzeby specyfikatora konwersji
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(517,43): warning C4477: „sscanf_s”: ciąg formatu „%[^:]” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „char *”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(517,43):
+  ten argument jest używany jako rozmiar bufora
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(517,43): warning C4473: „sscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(517,43):
+  symbole zastępcze i ich parametry oczekują 4 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(517,43):
+  brakujący argument 3 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%[^;]”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(517,43):
+  ten argument jest używany na potrzeby specyfikatora konwersji
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(560,31): warning C4473: „sscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(560,31):
+  symbole zastępcze i ich parametry oczekują 2 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(560,31):
+  brakujący argument 2 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%[^{\t\n]”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(560,31):
+  ten argument jest używany jako rozmiar bufora
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(583,31): warning C4477: „sscanf_s”: ciąg formatu „%[^:]” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „char *”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(583,31):
+  ten argument jest używany jako rozmiar bufora
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(583,31): warning C4473: „sscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(583,31):
+  symbole zastępcze i ich parametry oczekują 4 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(583,31):
+  brakujący argument 3 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%[^;]”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(583,31):
+  ten argument jest używany na potrzeby specyfikatora konwersji
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(622,27): warning C4473: „sscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(622,27):
+  symbole zastępcze i ich parametry oczekują 2 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(622,27):
+  brakujący argument 2 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(622,27):
+  ten argument jest używany jako rozmiar bufora
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(626,32): warning C4473: „sscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(626,32):
+  symbole zastępcze i ich parametry oczekują 3 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(626,32):
+  brakujący argument 3 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(626,32):
+  ten argument jest używany jako rozmiar bufora
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(635,32): warning C4473: „sscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(635,32):
+  symbole zastępcze i ich parametry oczekują 3 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(635,32):
+  brakujący argument 3 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(635,32):
+  ten argument jest używany jako rozmiar bufora
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(653,32): warning C4473: „sscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(653,32):
+  symbole zastępcze i ich parametry oczekują 3 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(653,32):
+  brakujący argument 3 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%[^EOF]”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(653,32):
+  ten argument jest używany jako rozmiar bufora
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(662,32): warning C4477: „sscanf_s”: ciąg formatu „%[^,]” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „char *”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(662,32):
+  ten argument jest używany jako rozmiar bufora
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(662,32): warning C4473: „sscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(662,32):
+  symbole zastępcze i ich parametry oczekują 4 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(662,32):
+  brakujący argument 3 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(662,32):
+  ten argument jest używany na potrzeby specyfikatora konwersji
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(667,32): warning C4477: „sscanf_s”: ciąg formatu „%[^,]” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „char *”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(667,32):
+  ten argument jest używany jako rozmiar bufora
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(667,32): warning C4473: „sscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(667,32):
+  symbole zastępcze i ich parametry oczekują 4 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(667,32):
+  brakujący argument 3 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(667,32):
+  ten argument jest używany na potrzeby specyfikatora konwersji
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(672,32): warning C4477: „sscanf_s”: ciąg formatu „%[^,]” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „char *”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(672,32):
+  ten argument jest używany jako rozmiar bufora
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(672,32): warning C4473: „sscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(672,32):
+  symbole zastępcze i ich parametry oczekują 4 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(672,32):
+  brakujący argument 3 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%[^EOF]”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(672,32):
+  ten argument jest używany na potrzeby specyfikatora konwersji
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(680,32): warning C4473: „sscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(680,32):
+  symbole zastępcze i ich parametry oczekują 3 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(680,32):
+  brakujący argument 3 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(680,32):
+  ten argument jest używany jako rozmiar bufora
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(685,32): warning C4473: „sscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(685,32):
+  symbole zastępcze i ich parametry oczekują 3 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(685,32):
+  brakujący argument 3 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%[^EOF]”
+  C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(685,32):
+  ten argument jest używany jako rozmiar bufora
+  
+C:\Users\szymo\source\repos\CssProcessor\CssProcessor\CssProcessor.cpp(614,10): warning C4101: "action": lokalna zmienna, do której nie istnieje odwołanie
+  CssProcessor.vcxproj -> C:\Users\szymo\source\repos\CssProcessor\x64\Debug\CssProcessor.exe
